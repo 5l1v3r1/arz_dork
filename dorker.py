@@ -1,6 +1,7 @@
 #!/usr/bin/python2.7
 # -*- coding: utf-8 -*-
-#Author D4RK5H4D0W5	Maklum kalo berantakan ster
+# Author D4RK5H4D0W5	Maklum kalo berantakan ster
+# Big Thanks for Teguh Aprianto about the Google CSE Key
 G = '\033[0;32m'; C = '\033[0;36m'; W = '\033[0;37m'; R = '\033[0;31m'; Y='\033[0;33m'
 import requests as r,re,random,sys,os
 def logo():
